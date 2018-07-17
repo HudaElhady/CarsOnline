@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.6.0)
+  - CountdownLabel (3.0.0)
+  - Kingfisher (4.6.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CountdownLabel
+  - Kingfisher (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CountdownLabel
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  CountdownLabel: 4534a68892b1deb73fda18702dfdc2c8444cec08
+  Kingfisher: 1f9157d9c02b380cbd0b7cc890161195164eb634
+
+PODFILE CHECKSUM: 7cd79966ca2c4841f4e996034a6d714b0424c0bb
+
+COCOAPODS: 1.5.3
